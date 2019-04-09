@@ -13,3 +13,6 @@ L'objectif de ce blog est de partager mes connaissances & découvertes technique
 - Soft skills en entreprise
 
 J'essaierai à minima de partager un post par semaine.
+
+Cheers,
+Jonathan
