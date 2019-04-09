@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ouverture du blog
+comments: true
 ---
 
 L'objectif de ce blog est de partager mes connaissances & découvertes techniques au fil de l'eau. La spectre du blog sera très large :
