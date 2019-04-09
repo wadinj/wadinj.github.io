@@ -14,5 +14,7 @@ L'objectif de ce blog est de partager mes connaissances & découvertes technique
 
 J'essaierai à minima de partager un post par semaine.
 
+Happy reading!
+
 Cheers,
 Jonathan
