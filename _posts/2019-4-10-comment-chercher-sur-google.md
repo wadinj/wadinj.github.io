@@ -4,7 +4,7 @@ title: Comment chercher efficacement sur Google ?
 comments: true
 ---
 
-Aujourd'hui, dans 99% des cas la solution au moindre problème technique que vous rencontrerez est disponible sur le web. Avec mes deux petites années d'expériences, j'ai remarqué que beaucoup de mes collègues ne savaient pas chercher efficacement sur Google.
+Aujourd'hui, dans 99% des cas la solution au moindre problème technique que vous rencontrerez est disponible sur le web. Avec mes deux petites années d'expériences, j'ai remarqué que pas mal développeurs que j'ai cotoyé ne savaient pas chercher l'information efficacement.
 
 Les règles d'or que j'applique quotidiennement pour chercher efficacement:
 
