@@ -20,5 +20,5 @@ Les règles d'or pour chercher efficacement:
   - Les articles/blogs souvent très utile pour la mise en place & la configuration
   - Les threads GitHub dans le cas d'un problème précis et récent.
 
-Appliquer ces 3 règles est un véritable "game-changer" dans mon quotidien au travail.
+Appliquer ces quelques règles est un véritable "game-changer" dans mon quotidien au travail.
 N'hésitez pas à partager vos conseils si j'ai omis certains points.
