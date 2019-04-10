@@ -12,14 +12,15 @@ La spectre du blog sera très large :
 
 - Conception & Craftmanship
 - Problème purement technique ou difficulté que j'ai pu rencontrer
-- Tutoriel sur des langages/framework que j'ai pu expérimenté
-- Partage de configuration DevOps & des outils utilisés notamment pour l'automatisation du déploiement
-- Testing, coding & méthodes
-- Soft skills en entreprise
-- Expérience, Culture & Voyages
-- Ecologie
+- Tutoriel sur des langages/frameworks que j'ai pu expérimenté
+- Partage de configuration DevOps & des feedbacks sur les outils utilisés notamment pour l'automatisation du déploiement
+- Mes découvertes concernant le testing, la méthodologie et le clean code
+- Les soft skills et comment les adapter en entreprise
+- Des retours d'expériences, des rencontres culturels & mes voyages
+
+Et pour finir, un sujet qui me tiens à coeur: l'Ecologie
 
 J'essaierai à minima de partager un post par semaine.
 
-En espérant que le contenu sera plaisant.
+En espérant que le contenu vous plaira.
 Happy reading!
