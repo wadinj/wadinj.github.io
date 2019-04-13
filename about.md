@@ -12,4 +12,4 @@ Je suis un Lillois de 25 ans. Après être parti 1 ans et demi en Californie pui
 
 - Les articles seront simples, efficaces & courts
 - Je n'ai pas besoin d'être un expert sur quelque chose pour en parler
-- Je suis un adepte du KISS -> Keep it Sample, Stupid
+- Je suis un adepte du KISS -> Keep it Simple, Stupid
