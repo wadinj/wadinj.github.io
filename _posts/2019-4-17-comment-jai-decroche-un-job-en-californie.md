@@ -4,7 +4,7 @@ title: Comment j'ai décroché un job en Californie ?
 comments: true
 ---
 
-<img src="https://github.com/wadinj/wadinj.github.io/raw/master/images/ggbridge.JPG" width="100%" />
+<a title="Rich Niewiroski Jr. [CC BY 2.5 (https://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:GoldenGateBridge-001.jpg"><img width="100%" alt="GoldenGateBridge" src="https://github.com/wadinj/wadinj.github.io/raw/master/images/ggbridge.JPG"></a>
 
 Juste après avoir fini mes études à Lille, je voulais expérimenter quelque chose qui sort du commun. Eviter le chemin classique qui consiste à travailler dans une ESN et rester dans "ma zone de confort". Ayant fait un premier stage en Grèce lors de ma seconde année, cette idée du voyage/travail me trottait dans la tête.
 
