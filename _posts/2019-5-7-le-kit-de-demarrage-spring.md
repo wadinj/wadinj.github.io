@@ -136,4 +136,4 @@ Vous pouvez retrouver le projet initialisé sous GitHub : [https://github.com/wa
 
 N'hésitez pas à le forker et avoir un flot de développement aux petits oignons ! :tada:
 
-Si vous avez des soucis, n'hésitez pas à commenter, je sortirai ma :wrench: !
+Si vous avez des soucis, n'hésitez pas à commenter, je sortirais ma :wrench: !
