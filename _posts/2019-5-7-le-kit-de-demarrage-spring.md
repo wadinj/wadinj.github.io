@@ -97,7 +97,7 @@ Dernière étape, on va lancer une analyse de la couverture de notre suite de te
 
 Pour cela, on va utiliser [Codecov](https://codecov.io/). Vous pouvez vous y connecter avec GitHub et créer le projet en le selectionnant dans la liste.
 
-Ensuite, dans notre projet, ajouter le plugin JaCoCo à votre _pom.xml_ dans la section "_<build><plugins>_" :
+Ensuite, dans notre projet, ajouter le plugin JaCoCo à votre _pom.xml_ dans la section `<build><plugins>` :
 
 ```xml
 <plugin>
