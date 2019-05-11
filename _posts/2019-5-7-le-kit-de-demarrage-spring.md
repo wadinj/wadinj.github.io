@@ -82,7 +82,7 @@ Maintenant on le commit & on ouvre l'onglet _"Dashboard"_ sous l'interface web d
 1. `./mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V` &rarr; Il télécharge les dépendances & compile notre projet
 2. `./mvnw test -B` &rarr; Il lance notre suite de tests
 
-Tout ça sans rien lui avoir spitulé mis à part que nous utilisons Java 8. Well done Travis! :smiley:
+Tout ça sans rien lui avoir stipulé mis à part que nous utilisons Java 8. Well done Travis! :smiley:
 
 Maintenant c'est bien beau d'avoir un projet qui compile, mais on en veut un peu plus. On veut un projet qui est déployé ! [Heroku](https://www.heroku.com/) nous voilà :sunglasses:
 
